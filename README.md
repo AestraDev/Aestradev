@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aestra!
+### Hi there 👋,
 
 <br/>
 
@@ -10,11 +10,10 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 - 🔭 I’m currently working on  **Discord Bots,tools and games**
 - 🌱 I’m currently learning  **Javascript and Typescript**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
+- 🤔 I’m looking for help with  **web development.**
 - 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **subodhinamdar99@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
+- ⚡ Fun fact : **JavaScript > all languages**
 
 **Languages and Tools:**  
 
