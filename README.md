@@ -3,7 +3,7 @@
 <br/>
 
 
-Hey, I'm Aestra, a Web Developer 🚀, Back End Developer from India. 
+Hey, I'm Aestra, a Web Developer 🚀, both front and back End Developer.
 
  **Information:**
 
