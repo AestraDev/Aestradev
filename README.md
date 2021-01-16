@@ -3,12 +3,12 @@
 <br/>
 
 
-Hey, I'm Aestra, a Web Developer 🚀, both front and back End Developer.
+Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
  **Information:**
 
-- 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
-- 🌱 I’m currently learning  **React.JS and C++.**
+- 🔭 I’m currently working on  **Discord Bots,tools and games**
+- 🌱 I’m currently learning  **Javascript and Typescript**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech.**
