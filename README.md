@@ -15,8 +15,6 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
-
 Hey, I'm Aestra, a Web Developer 🚀, Back End Developer from India. 
 
  **Information:**
