@@ -1,19 +1,7 @@
 ### Hi there 👋, I'm Aestra!
 
 <br/>
-<a href="https://www.instagram.com/delta_5621/">
-  <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.com/users/552814506070507531">
-    <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
-  <a href="https://twitter.com/Delta_562">
-    <img align ="left" alt="Subodh's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
-
-<br/>
 
 Hey, I'm Aestra, a Web Developer 🚀, Back End Developer from India. 
 
