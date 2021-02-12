@@ -2,7 +2,7 @@
 
 <br/>
 
-[Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png)
+![Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png)
 
 Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
