@@ -10,6 +10,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 - 🔭 I’m currently working on  **Discord Bots,tools and games**
 - 🌱 I’m currently learning  **Javascript and Typescript**
+- 😇 Join my Discord server  by (!clicking here)[https://discord.gg/RZaKbVk8]
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Web development.**
 - 💬 Ask me about  Anything related to **Tech.**
