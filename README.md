@@ -6,7 +6,7 @@
 
 Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
-How to Reach Me!
+**How to Reach Me!**
 
 [![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra_dev)
 
@@ -21,6 +21,7 @@ How to Reach Me!
 - 💬 Ask me about  Anything related to **Tech.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript > all languages**
+- 
 
 **Languages and Tools:**  
 
@@ -45,9 +46,7 @@ How to Reach Me!
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Aestradev&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aestradev&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
 
-**Profile Visits**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aestra.tech.aestra.tech)
 
 
 
