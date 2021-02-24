@@ -6,6 +6,11 @@
 
 Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
+How to Reach Me!
+
+[![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsvpxb0I459H_D6TRwQB1bg/featured) [![Mail Badge](https://img.shields.io/badge/-@Aestra.Tech-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra.Tech)
+
+
  **Information:**
 
 - 🔭 I’m currently working on  **Discord Bots,tools and games**
