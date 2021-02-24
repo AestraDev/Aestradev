@@ -6,10 +6,13 @@
 
 Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
+-----------------
+
 **How to Reach Me!**
 
 [![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra_dev)
 
+-------------------
 
  **Information:**
 
@@ -22,6 +25,8 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript > all languages**
 - 
+
+-------------
 
 **Languages and Tools:**  
 
@@ -39,6 +44,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 
+-------------
 
 **Stats:**  
 
