@@ -28,6 +28,10 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 -------------
 
+## DISCORD ID
+
+![Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png)
+
 ### Languages and Tools 🛠 :
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
