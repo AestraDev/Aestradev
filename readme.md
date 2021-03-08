@@ -14,7 +14,6 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 -------------------
 
-<p align="center">![AestraDev](https://api.ghprofile.me/view?username=Aestradev)</p>
 
  **Information:**
 
