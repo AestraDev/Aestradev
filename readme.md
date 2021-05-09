@@ -30,7 +30,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 ## DISCORD STATUS
 
-![Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png)
+ <p align="center"> ![Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png) </p>
 
 --------------
 
@@ -66,9 +66,9 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 **Stats:**  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AestraDev&show_icons=false&theme=tokyonight">
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AestraDev&show_icons=false&theme=tokyonight"> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile"> </p>
 
 
 
