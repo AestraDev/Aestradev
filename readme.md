@@ -30,7 +30,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 ## DISCORD STATUS
 
- <p align="center"> ![Discord](https://discord.c99.nl/widget/theme-3/757844447886311454.png) </p>
+ <p align="center"> <img align="center" src='https://discord.c99.nl/widget/theme-3/757844447886311454.png'> </p>
 
 --------------
 
