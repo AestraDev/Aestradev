@@ -66,7 +66,9 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 **Stats:**  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AestraDev&show_icons=false&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AestraDev&show_icons=false&theme=tokyonight">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
 
 
 
