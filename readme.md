@@ -10,7 +10,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
 **How to Reach Me!**
 
-[![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra_dev) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-00ACEE?style=flat&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/AestraDev)
+[![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra_dev) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/AestraDev)
 
 -------------------
 
