@@ -49,7 +49,7 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 ![MongoDb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Glitch](https://img.shields.io/badge/-glitch-%23FF1493?style=flat-square&logo=glitch&logoColor=white)
-![Replit](https://img.shields.io/badge/-replit-%23696969?style=flat-square&logo=repl.it&logoColor=white)
+![Replit](https://img.shields.io/badge/-replit-%23696969?style=flat-square&logo=replit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-%23CBC3E3?style=flat-square&logo=heroku&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/-gitpod-%23FFA500?style=flat-square&logo=gitpod&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
