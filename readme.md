@@ -4,7 +4,7 @@
 <br/>
 
 
-Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
+Hey, I'm Aestra, a Web Developer 🚀
 
 -----------------
 
@@ -17,13 +17,12 @@ Hey, I'm Aestra, a Web Developer 🚀, Both Front and Back End Developer.
 
  **Information:**
 
-- 🔭 I’m currently working on  **Discord Bots,tools and games**
-- 🌱 I’m currently learning  **More Languages**
-- 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  **Web development.**
-- 💬 Ask me about  Anything related to **Tech.**
+- 🔭 I’m currently working on  **Discord Bots, Sites, Packages etc**
+- 🌱 I’m currently learning  **JavaScript frameworks**
+- 🤔 I’m looking for help with  **My open source projects**
+- 💬 Ask me about  Anything related to **Web development**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript > all languages**
+- ⚡ Fun fact : **No one is perfect :)**
 
 
 -------------
