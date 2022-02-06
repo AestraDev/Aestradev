@@ -25,8 +25,8 @@ Hey, I'm Aestra, a Web Developer 🚀
 - 😌 favorite anime: **Death note**,
 - 🎵 favorite song: **Believer**,
 - 👤 role model: **sundar pichai**,
-- 💥 favorite superhero: **doctor strange ( marvel )**
-- 💫 hackathon won: **one**
+- 💥 favorite superhero: **doctor strange ( marvel )**,
+- 💫 hackathon won: **one**,
 - ⚡ Fun fact : **No one is perfect :)**
 
 
