@@ -17,11 +17,16 @@ Hey, I'm Aestra, a Web Developer 🚀
 
  **Information:**
 
-- 🔭 I’m currently working on  **Discord Bots, Sites, Packages etc**
-- 🌱 I’m currently learning  **JavaScript frameworks**
-- 🤔 I’m looking for help with  **My open source projects**
-- 💬 Ask me about  Anything related to **Web development**
-- 😄 Pronouns :  **He/Him.**
+- 🔭 I’m currently working on  **Discord Bots, Sites, Packages etc**,
+- 🌱 I’m currently learning  **JavaScript frameworks**,
+- 🤔 I’m looking for help with  **My open source projects**,
+- 💬 Ask me about  Anything related to **Web development**,
+- 😄 Pronouns :  **He/Him.**,
+- 😌 favorite anime: **Death note**,
+- 🎵 favorite song: **Believer**,
+- 👤 role model: **sundar pichai**,
+- 💥 favorite superhero: **doctor strange ( marvel )**
+- 💫 hackathon won: **one**
 - ⚡ Fun fact : **No one is perfect :)**
 
 
